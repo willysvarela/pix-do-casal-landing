@@ -43,7 +43,7 @@ export default function Home() {
               intermediários, sem complicação.
             </p>
             <div className="w-full max-w-md mt-4 p-4 rounded-lg border bg-card shadow-sm">
-              <h3 className="text-lg font-semibold mb-4">Entre na lista de espera</h3>
+              <h3 className="text-lg font-semibold mb-4">Entre na lista de espera e receba o acesso antecipado</h3>
               <WaitlistForm />
             </div>
           </div>
